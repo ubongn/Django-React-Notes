@@ -3,7 +3,7 @@
 
 # Django & React Notes App
 </div>
-
+<!-- 
 ### Cloning the repository
 
 
@@ -21,7 +21,7 @@ python -m venv env
 .\env\Scripts\activate
 # If you are on Linux or Mac
 source env/bin/activate
-```
+``` -->
 
 #
 
